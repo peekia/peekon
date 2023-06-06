@@ -1,6 +1,6 @@
 {
   "allow": true,
-  "serverVersion": "170",
+  "serverVersion": "100",
   "updateUrl": "https://a.swipis.com/",
   "disclaimerUrl" :"https://swipis.com/disclaimer/",
   "plUrl": "",
