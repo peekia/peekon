@@ -1,9 +1,9 @@
 {
   "allow": true,
-  "server-version": "170",
-  "update-URL": "https://a.swipis.com/",
-  "disclaimer" :"",
-  "pl-url": "",
+  "serverVersion": "170",
+  "updateUrl": "https://a.swipis.com/",
+  "disclaimerUrl" :"https://swipis.com/disclaimer/",
+  "plUrl": "",
   "st": {
     "st1f": 1,
     "st2f": 1,
