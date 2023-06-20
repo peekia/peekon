@@ -4,14 +4,16 @@
   "updateUrl": "https://a.swipis.com/",
   "disclaimerUrl" :"https://swipis.com/disclaimer/",
   "plUrl": "https://pastebin.com/raw/LikMnX7v",
-  "st": {
+ "st": {
     "st1f": 1,
     "st2f": 1,
-    "st3f": 1000
-  },
-  "sttv": {
+    "st3f": 1,
+    "st4f": 1
+},
+ "sttv": {
     "st1f": 1,
     "st2f": 1,
-    "st3f": 1
-  }
+    "st3f": 1,
+    "st4f": 1
+}
 }
