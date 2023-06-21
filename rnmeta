@@ -1,8 +1,8 @@
 {
   "allow": true,
   "serverVersion": "100",
-  "updateUrl": "https://a.swipis.com/",
-  "disclaimerUrl" :"https://swipis.com/disclaimer/",
+  "updateUrl": "https://a.todo.com/",
+  "disclaimerUrl" : "https://raw.githubusercontent.com/peekia/peekon/main/rndisclaimer.html",
   "plUrl": "https://pastebin.com/raw/LikMnX7v",
  "st": {
     "st1f": 1,
