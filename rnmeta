@@ -6,20 +6,20 @@
   "plUrl": "https://pastebin.com/raw/LikMnX7v",
 "st": {
     "st1f": 10000000,
-    "st2f": 1,
-    "st3f": 1,
-    "st4f": 1,
-    "st5f": 1,
-    "st6f": 1,
-    "st7f": 1
+    "st2f": 100,
+    "st3f": 100,
+    "st4f": 100,
+    "st5f": 100,
+    "st6f": 100,
+    "st7f": 100
 },
  "sttv": {
-    "st1f": 1,
-    "st2f": 1,
-    "st3f": 1,
-    "st4f": 1,
-    "st5f": 1,
-    "st6f": 1,
-    "st7f": 1
+    "st1f": 100,
+    "st2f": 100,
+    "st3f": 100,
+    "st4f": 100,
+    "st5f": 100,
+    "st6f": 100,
+    "st7f": 100
 }
 }
