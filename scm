@@ -1,7 +1,5 @@
 {
   "allow": true,
-  "server-version": "100",
-  "update-url": "https://a.todo.com/",
   "disclaimer-url" : "https://raw.githubusercontent.com/peekia/peekon/main/rndisclaimer.html,
 "st": {
     "st1f": 1000,
