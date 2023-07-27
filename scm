@@ -1,6 +1,6 @@
 {
   "allow": true,
-  "disclaimer-url" : "https://raw.githubusercontent.com/peekia/peekon/main/rndisclaimer.html",
+  "disclaimer-url" : "https://raw.githubusercontent.com/peekia/peekon/main/scd.html",
 "st": {
     "st1f": 1000,
     "st2f": 1000,
