@@ -1,7 +1,7 @@
 {
   "allow": true,
   "server-version": "100",
-  "update-URL": "https://a.fik-fap.com",
+  "update-URL": "",
   "disclaimer" :"https://raw.githubusercontent.com/peekia/peekon/main/ipd.html",
 "ad": {
     "fSeconds": 180,
@@ -18,7 +18,8 @@
     "t5": "",
     "t6": "1CDxWBKjB4ocfJjYgmkf69b95da7-f7c3-4fdd-89e5-1a71d2d6021138x5P3qQ82pz50ctD882",
     "t7": "fY7TM9Q8kbFLPy723q24oKR3l/FvcknDNHRtnyES2c7iTuk7xRX92wfftvs4EmM=7ghA88d9t8m96YRifW1E",
-    "t8": ""
+    "t8": "",
+    "t9": ""
 },
 "spc": {
     "s1": {
